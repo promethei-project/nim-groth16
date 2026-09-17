@@ -8,4 +8,4 @@ binDir      = "build"
 namedBin    = {"cli/cli_main": "nim-groth16"}.toTable()
 
 requires "https://github.com/status-im/nim-taskpools"
-requires "https://github.com/durability-labs/constantine#v0.2.0-fix-nimble-windows"
+requires "https://github.com/promethei-project/constantine#v0.2.0-fix-nimble-windows"
